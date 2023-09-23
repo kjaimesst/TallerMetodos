@@ -1,0 +1,5 @@
+# Created at 2023-09-22T07:01:26.195
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Oriana\Documents\NetBeansProjects\TallerMetodos\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
